@@ -13,7 +13,7 @@
         <div class="row">
             <?php
 
-    if($_SESSION["perfil"] =="ADMINISTRADOR" || $_SESSION["perfil"] =="USUARIO"){
+    if($_SESSION["perfil"] =="ADMINISTRADOR" || $_SESSION["perfil"] =="USUARIO" || $_SESSION["perfil"] =="PROVEEDOR" ){
 
       include "inicio/cajas-superiores.php";
 

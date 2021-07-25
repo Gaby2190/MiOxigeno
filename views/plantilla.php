@@ -96,6 +96,8 @@ session_start();
 
          $_GET["ruta"] == "proveedores" ||
 
+         $_GET["ruta"] == "proveedor" ||
+
          $_GET["ruta"] == "proveedores-activados" ||
 
          $_GET["ruta"] == "salir"){
