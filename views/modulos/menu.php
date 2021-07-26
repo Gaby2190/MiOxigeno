@@ -25,6 +25,22 @@
 					</li>	
 					 ';
 		}
+		if($_SESSION["perfil"] == "PROVEEDOR"){
+
+			echo '	<li class="active">
+						<a href="inicio">
+							<i class="fa fa-home"></i>
+								<span>Inicio</span>
+						</a>
+					</li>
+					<li>
+						<a href="proveedor">
+							<i class="fa fa-user"></i>
+								<span>Proveedores</span>
+						</a>
+					</li>	
+					 ';
+		}
 
 		if($_SESSION["perfil"] == "USUARIO"){
 

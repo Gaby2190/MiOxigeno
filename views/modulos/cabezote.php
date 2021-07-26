@@ -4,7 +4,7 @@
              <img src="views/img/plantilla/icono-blanco.png" class="img-responsive" style="padding:10px">
          </span>
          <span class="logo-lg">
-             <img src="views/img/plantilla/logo-blanco-lineal.png" class="img-responsive" style="padding:10px 0px">
+            <h4>Mi Oxigeno</h4>
          </span>
      </a>
      <nav class="navbar navbar-static-top" role="navigation">
